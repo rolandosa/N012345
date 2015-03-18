@@ -1,2 +1,0 @@
-# eCTDOutline
-# HELLO WORLD
